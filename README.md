@@ -7,7 +7,7 @@
 
 `cd DARK-NVIM`
 
-'chmod +x DARK-NVIM.sh'
+`chmod +x DARK-NVIM.sh`
 
 `bash DARK-NVIM.sh`
 
