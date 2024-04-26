@@ -3,7 +3,7 @@
 
 **Uso**
 
-`git clone`
+`git clone https://github.com/Dark-34-dev/DARKNVIM`
 
 `cd DARK-NVIM`
 
