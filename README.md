@@ -5,7 +5,7 @@
 
 `git clone https://github.com/Dark-34-dev/DARKNVIM`
 
-`cd DARK-NVIM`
+`cd DARKNVIM`
 
 `chmod +x DARK-NVIM.sh`
 
